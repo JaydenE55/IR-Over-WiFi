@@ -13,7 +13,7 @@ It also only accepts NEC format IR codes.
 5. Click The Step Button and change the pin to V1.
 6. Download the code and the required dependencies located below.
 7. Edit the Auth Key, WiFi Name, Password, IR Codes, and the pin used for the IR Blaster.
-8. Then flash the ESP/Arduino with the edited code, and also plug your IR Blaster into the pin you set in step 9, VCC and ground.
+8. Then flash the ESP/Arduino with the edited code, and also plug your IR Blaster into the pin you set in step 7, VCC and ground.
 9. Point the blaster at the device your controlling.
 10. Open the Blynk app and click the + button at the top right and use the button's to control your device.
 
