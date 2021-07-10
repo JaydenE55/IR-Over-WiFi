@@ -42,6 +42,7 @@ This device will require internet access at all times to function properly. The 
 | 1   | ESP8266/12E  | https://www.amzn.com/dp/B08B4P67N8/ |
 | 1   | Jumper Wires | https://www.amzn.com/dp/B01EV70C78/ |
 | 1   | IR Blaster   | https://www.amzn.com/dp/B01E20VQD8/ |
+
 Note: The jumper wires are an assorted pack of F to F, M to M, and M to F.
 The IR Blaster also includes a reciever, you could use that to find the IR codes
 To find the codes for your device, read "DecodingTheSignals.md".
