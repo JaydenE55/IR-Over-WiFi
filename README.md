@@ -12,10 +12,10 @@ It also only accepts NEC format IR codes.
 4. Click that button and change the output pin to V0.
 5. Click The Step Button and change the pin to V1.
 6. Download the code and the required dependencies located below.
-7. Edit the Auth Key, WiFi Name, and Password, if needed also change the IR pin.
-8. Then flash the ESP/Arduino with the edited code, and also plug your IR Blaster into the pin you set in step 9 and ground.
+7. Edit the Auth Key, WiFi Name, Password, IR Codes, and the pin used for the IR Blaster.
+8. Then flash the ESP/Arduino with the edited code, and also plug your IR Blaster into the pin you set in step 9, VCC and ground.
 9. Point the blaster at the device your controlling.
-10. Open the Blynk app and click the + button at the top right and use the button's to control your A/C unit.
+10. Open the Blynk app and click the + button at the top right and use the button's to control your device.
 
 ## WiFi Connection
 This device will require internet access at all times to function properly. The ESP will only need internet access to communicate with Blynk's servers. I am in no way interfering with your connection to and from Blynk.
