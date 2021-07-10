@@ -44,5 +44,5 @@ This device will require internet access at all times to function properly. The 
 | 1   | IR Blaster   | https://www.amzn.com/dp/B01E20VQD8/ |
 
 Note: The jumper wires are an assorted pack of F to F, M to M, and M to F.
-The IR Blaster also includes a reciever, you could use that to find the IR codes
+The IR Blaster also includes a reciever, you could use that to find the IR codes.
 To find the codes for your device, read "DecodingTheSignals.md".
