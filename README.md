@@ -1,8 +1,8 @@
-# AirCon-Control
-AirCon-Control allows you to connect to an ESP8266 using Blynk and control your A/C unit wirelessly from your smartphone. 
+# IR-Over-WiFi
+AirCon-Control allows you to connect to an ESP8266 using Blynk and control your IR device wirelessly from your smartphone. 
 
 ## --DISCLAIMER--
-This project will only work if your A/C unit or whatever device your controlling accepts Infared signals from a remote or similar device.
+This project will only work if your device your accepts Infared signals from a remote or similar device.
 It also only accepts NEC format IR codes.
 
 ## Getting Started
