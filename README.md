@@ -5,6 +5,9 @@ AirCon-Control allows you to connect to an ESP8266 using Blynk and control your 
 This project will only work if your device your accepts Infared signals from a remote or similar device.
 It also only accepts NEC format IR codes.
 
+## Deprecated
+With the mibration to Blynk.cloud, it would be very difficult and time comsuming to migrate this project to the new platform, so I am deeming the project dead.
+
 ## Getting Started
 1. Download the Blynk App from the Google Play or App Store and install it and create an account.
 2. Create a new project, once you've created your project you should've been emailed an authorization key, save that for later.
