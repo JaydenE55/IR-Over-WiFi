@@ -6,7 +6,7 @@ This project will only work if your device your accepts Infared signals from a r
 It also only accepts NEC format IR codes.
 
 ## Deprecated
-With the mibration to Blynk.cloud, it would be very difficult and time comsuming to migrate this project to the new platform, so I am deeming the project dead.
+With the migration to Blynk.cloud, it would be very difficult and time comsuming to convert this project to the new platform, so I am deeming the project dead.
 
 ## Getting Started
 1. Download the Blynk App from the Google Play or App Store and install it and create an account.
